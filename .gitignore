@@ -1,0 +1,3 @@
+/fake-pypi/intermediate-package/*.tar.gz
+/intermediate-package/dist
+*.egg-info
